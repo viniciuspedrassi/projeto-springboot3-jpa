@@ -1,4 +1,4 @@
-package com.viniciuspedrassi.projeto.web.services;
+package com.viniciuspedrassi.projeto.java.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

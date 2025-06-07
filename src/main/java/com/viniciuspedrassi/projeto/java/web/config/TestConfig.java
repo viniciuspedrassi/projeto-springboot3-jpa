@@ -1,4 +1,4 @@
-package com.viniciuspedrassi.projeto.web.services.config;
+package com.viniciuspedrassi.projeto.java.web.config;
 
 import java.util.Arrays;
 
@@ -7,8 +7,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
-import com.viniciuspedrassi.projeto.web.services.entities.User;
-import com.viniciuspedrassi.projeto.web.services.repositories.UserRepository;
+import com.viniciuspedrassi.projeto.java.web.entities.User;
+import com.viniciuspedrassi.projeto.java.web.repositories.UserRepository;
 
 @Configuration
 @Profile ("test")

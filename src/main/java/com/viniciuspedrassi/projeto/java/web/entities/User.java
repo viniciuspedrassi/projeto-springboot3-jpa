@@ -1,4 +1,4 @@
-package com.viniciuspedrassi.projeto.web.services.entities;
+package com.viniciuspedrassi.projeto.java.web.entities;
 
 import java.io.Serializable;
 import java.util.Objects;
